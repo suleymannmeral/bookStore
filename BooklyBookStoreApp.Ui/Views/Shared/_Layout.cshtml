@@ -1,0 +1,28 @@
+﻿<!doctype html>
+<html lang="en">
+
+<body>
+
+    <!--header-->
+    @Html.Partial("Header")
+
+    @Html.Partial("Navbar")
+
+    <!--/header-->
+
+    <!-- contacts -->
+     @RenderBody()
+     <!-- //contacts -->
+    <!-- footers 20 -->
+@*     @await Component.InvokeAsync("_FooterViewComponentPartial")
+    @await Component.InvokeAsync("_ScriptViewComponentPartial") *@
+
+    <!-- jQuery and Bootstrap JS -->
+    @Html.Partial("Footer")
+    @Html.Partial("Scripts")
+
+
+
+</body>
+
+</html>

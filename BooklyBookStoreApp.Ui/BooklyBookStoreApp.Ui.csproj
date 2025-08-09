@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.6" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.7" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\booklyBookStore\css\.DS_Store" />
+    <None Include="wwwroot\booklyBookStore\css\bootstrap\.DS_Store" />
+    <None Include="wwwroot\booklyBookStore\css\css\.DS_Store" />
+    <None Include="wwwroot\booklyBookStore\css\css\mixins\.DS_Store" />
+    <None Include="wwwroot\booklyBookStore\fonts\.DS_Store" />
+    <None Include="wwwroot\booklyBookStore\fonts\flaticon\.DS_Store" />
+    <None Include="wwwroot\booklyBookStore\fonts\flaticon\font\.DS_Store" />
+    <None Include="wwwroot\booklyBookStore\fonts\ionicons\fonts\.DS_Store" />
+    <None Include="wwwroot\booklyBookStore\images\.DS_Store" />
+    <None Include="wwwroot\booklyBookStore\js\.DS_Store" />
+    <None Include="wwwroot\booklyBookStore\scss\.DS_Store" />
+    <None Include="wwwroot\booklyBookStore\scss\bootstrap\.DS_Store" />
+    <None Include="wwwroot\user\css\.DS_Store" />
+    <None Include="wwwroot\user\css\bootstrap\.DS_Store" />
+    <None Include="wwwroot\user\css\bootstrap\mixins\.DS_Store" />
+    <None Include="wwwroot\user\fonts\.DS_Store" />
+    <None Include="wwwroot\user\images\.DS_Store" />
+    <None Include="wwwroot\user\js\.DS_Store" />
+    <None Include="wwwroot\user\scss\.DS_Store" />
+    <None Include="wwwroot\user\scss\bootstrap\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Shared\Components\" />
+  </ItemGroup>
+
+</Project>

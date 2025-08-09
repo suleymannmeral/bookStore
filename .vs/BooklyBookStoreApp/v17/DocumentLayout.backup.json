@@ -1,0 +1,2128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\views\\productlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\views\\productlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\views\\user\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\views\\user\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\controllers\\productlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\controllers\\productlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|solutionrelative:booklybookstoreapp.presentation\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|solutionrelative:booklybookstoreapp.presentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|solutionrelative:booklybookstoreapp.presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\dtos\\basketdtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\dtos\\basketdtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\views\\shared\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\views\\shared\\navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FC7A7C-9A81-431D-95A9-5A7852D2BB2D}|BooklyBookStoreApp.API\\BooklyBookStoreApp.API.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.api\\optionssetup\\jwtoptionssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FC7A7C-9A81-431D-95A9-5A7852D2BB2D}|BooklyBookStoreApp.API\\BooklyBookStoreApp.API.csproj|solutionrelative:booklybookstoreapp.api\\optionssetup\\jwtoptionssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FC7A7C-9A81-431D-95A9-5A7852D2BB2D}|BooklyBookStoreApp.API\\BooklyBookStoreApp.API.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.api\\optionssetup\\jwtbeareroptionssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FC7A7C-9A81-431D-95A9-5A7852D2BB2D}|BooklyBookStoreApp.API\\BooklyBookStoreApp.API.csproj|solutionrelative:booklybookstoreapp.api\\optionssetup\\jwtbeareroptionssetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FC7A7C-9A81-431D-95A9-5A7852D2BB2D}|BooklyBookStoreApp.API\\BooklyBookStoreApp.API.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FC7A7C-9A81-431D-95A9-5A7852D2BB2D}|BooklyBookStoreApp.API\\BooklyBookStoreApp.API.csproj|solutionrelative:booklybookstoreapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\dtos\\basketdtos\\basketresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\dtos\\basketdtos\\basketresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\views\\user\\registerpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\views\\user\\registerpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\basketdtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\basketdtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.presentation\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|solutionrelative:booklybookstoreapp.presentation\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\orderdtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\orderdtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\orderdtos\\createorderbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\orderdtos\\createorderbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\orderdtos\\orderbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\orderdtos\\orderbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FC7A7C-9A81-431D-95A9-5A7852D2BB2D}|BooklyBookStoreApp.API\\BooklyBookStoreApp.API.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FC7A7C-9A81-431D-95A9-5A7852D2BB2D}|BooklyBookStoreApp.API\\BooklyBookStoreApp.API.csproj|solutionrelative:booklybookstoreapp.api\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\services\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\services\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.presentation\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|solutionrelative:booklybookstoreapp.presentation\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\orderdtos\\getallordersbyuseriddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\orderdtos\\getallordersbyuseriddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.domain\\entitites\\orderbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|solutionrelative:booklybookstoreapp.domain\\entitites\\orderbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.domain\\entitites\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|solutionrelative:booklybookstoreapp.domain\\entitites\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\services\\ifavoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\services\\ifavoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.domain\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|solutionrelative:booklybookstoreapp.domain\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.domain\\repositories\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|solutionrelative:booklybookstoreapp.domain\\repositories\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.domain\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|solutionrelative:booklybookstoreapp.domain\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\repositorires\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\repositorires\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\repositorires\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\repositorires\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\repositorires\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\repositorires\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\repositorires\\favoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\repositorires\\favoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.domain\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|solutionrelative:booklybookstoreapp.domain\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.domain\\repositories\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|solutionrelative:booklybookstoreapp.domain\\repositories\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.domain\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|solutionrelative:booklybookstoreapp.domain\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.domain\\repositories\\ifavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|solutionrelative:booklybookstoreapp.domain\\repositories\\ifavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\repositorires\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\repositorires\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\repositorires\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\repositorires\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\repositorires\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\repositorires\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.domain\\entitites\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|solutionrelative:booklybookstoreapp.domain\\entitites\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\services\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\services\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.domain\\entitites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|solutionrelative:booklybookstoreapp.domain\\entitites\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB77BC8F-119D-4C3A-950B-FBD4EA6570FC}|BooklyBookStoreApp.Infrastructure\\BooklyBookStoreApp.Infrastructure.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.infrastructure\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB77BC8F-119D-4C3A-950B-FBD4EA6570FC}|BooklyBookStoreApp.Infrastructure\\BooklyBookStoreApp.Infrastructure.csproj|solutionrelative:booklybookstoreapp.infrastructure\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.presentation\\abstractions\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|solutionrelative:booklybookstoreapp.presentation\\abstractions\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB77BC8F-119D-4C3A-950B-FBD4EA6570FC}|BooklyBookStoreApp.Infrastructure\\BooklyBookStoreApp.Infrastructure.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.infrastructure\\authentication\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB77BC8F-119D-4C3A-950B-FBD4EA6570FC}|BooklyBookStoreApp.Infrastructure\\BooklyBookStoreApp.Infrastructure.csproj|solutionrelative:booklybookstoreapp.infrastructure\\authentication\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\validator\\uservalidators\\loginuserdtovalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\validator\\uservalidators\\loginuserdtovalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FC7A7C-9A81-431D-95A9-5A7852D2BB2D}|BooklyBookStoreApp.API\\BooklyBookStoreApp.API.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.api\\middlewares\\errormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FC7A7C-9A81-431D-95A9-5A7852D2BB2D}|BooklyBookStoreApp.API\\BooklyBookStoreApp.API.csproj|solutionrelative:booklybookstoreapp.api\\middlewares\\errormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.presentation\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|solutionrelative:booklybookstoreapp.presentation\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\services\\favoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\services\\favoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\userdtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\userdtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\configuration\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\configuration\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\configuration\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\configuration\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\configuration\\orderbookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\configuration\\orderbookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\configuration\\favoriteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\configuration\\favoriteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\configuration\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\configuration\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\configuration\\bookcommentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\configuration\\bookcommentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\userdtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\userdtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\userdtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\userdtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FC7A7C-9A81-431D-95A9-5A7852D2BB2D}|BooklyBookStoreApp.API\\BooklyBookStoreApp.API.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39FC7A7C-9A81-431D-95A9-5A7852D2BB2D}|BooklyBookStoreApp.API\\BooklyBookStoreApp.API.csproj|solutionrelative:booklybookstoreapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\abstractions\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\abstractions\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\basketdtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\basketdtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\basketdtos\\addbasketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\basketdtos\\addbasketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.domain\\entitites\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|solutionrelative:booklybookstoreapp.domain\\entitites\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.domain\\entitites\\favorites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|solutionrelative:booklybookstoreapp.domain\\entitites\\favorites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\favoritesdtos\\favoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\favoritesdtos\\favoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\favoritesdtos\\getallfavoritesbyusernamewithbookdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\favoritesdtos\\getallfavoritesbyusernamewithbookdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.domain\\entitites\\bookcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|solutionrelative:booklybookstoreapp.domain\\entitites\\bookcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.domain\\entitites\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|solutionrelative:booklybookstoreapp.domain\\entitites\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\favoritesdtos\\createfavoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\favoritesdtos\\createfavoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.domain\\entitites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C39E2AF-5C88-4699-B59F-AA2ED64C32C2}|BooklyBookStoreApp.Domain\\BooklyBookStoreApp.Domain.csproj|solutionrelative:booklybookstoreapp.domain\\entitites\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\validator\\bookvalidators\\updatebookdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\validator\\bookvalidators\\updatebookdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\validator\\categoryvalidators\\updatebookdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\validator\\categoryvalidators\\updatebookdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\validator\\categoryvalidators\\createbookdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\validator\\categoryvalidators\\createbookdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\categorydtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\categorydtos\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\exceptions\\categorynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\exceptions\\categorynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\exceptions\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\exceptions\\booknotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\categorydtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\categorydtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\categorydtos\\getallcategoriesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\categorydtos\\getallcategoriesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\categorydtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\categorydtos\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\categorydtos\\getonecategorybyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\categorydtos\\getonecategorybyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\bookdtos\\getallbookswithcategorynamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\bookdtos\\getallbookswithcategorynamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\validator\\bookvalidators\\createbookdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\validator\\bookvalidators\\createbookdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\dtos\\bookdtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\dtos\\bookdtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\wwwroot\\booklybookstore\\images\\bg_1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\wwwroot\\booklybookstore\\images\\bg_1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\views\\shared\\scripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\views\\shared\\scripts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8E268FD-38EF-4FEE-9769-B3C937DC8A22}|BooklyBookStoreApp.Ui\\BooklyBookStoreApp.Ui.csproj|solutionrelative:booklybookstoreapp.ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.presentation\\actionfilters\\validationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|solutionrelative:booklybookstoreapp.presentation\\actionfilters\\validationfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.presentation\\booklybookstoreapp.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|solutionrelative:booklybookstoreapp.presentation\\booklybookstoreapp.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\bookdtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\bookdtos\\createbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\dtos\\bookdtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\dtos\\bookdtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FC7A7C-9A81-431D-95A9-5A7852D2BB2D}|BooklyBookStoreApp.API\\BooklyBookStoreApp.API.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39FC7A7C-9A81-431D-95A9-5A7852D2BB2D}|BooklyBookStoreApp.API\\BooklyBookStoreApp.API.csproj|solutionrelative:booklybookstoreapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.persistence\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98042952-7ACD-40E3-A2D2-92989F4C9BB3}|BooklyBookStoreApp.Persistence\\BooklyBookStoreApp.Persistence.csproj|solutionrelative:booklybookstoreapp.persistence\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39FC7A7C-9A81-431D-95A9-5A7852D2BB2D}|BooklyBookStoreApp.API\\BooklyBookStoreApp.API.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.api\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FC7A7C-9A81-431D-95A9-5A7852D2BB2D}|BooklyBookStoreApp.API\\BooklyBookStoreApp.API.csproj|solutionrelative:booklybookstoreapp.api\\extensions\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12BFBAA-21DE-4202-8448-AA59963A71F1}|BooklyBookStoreApp.Application\\BooklyBookStoreApp.Application.csproj|solutionrelative:booklybookstoreapp.application\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|c:\\users\\mrlsl\\documents\\projects\\booklybookstoreapp\\booklybookstoreapp\\booklybookstoreapp.presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5D00CB4-1877-4981-A37A-9EBE228AB5BF}|BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj|solutionrelative:booklybookstoreapp.presentation\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250804114528_mggg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooklyBookStoreApp.Persistence\\Migrations\\20250804114528_mggg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250804105056_mgRefreshToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooklyBookStoreApp.Persistence\\Migrations\\20250804105056_mgRefreshToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250804111731_mgf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooklyBookStoreApp.Persistence\\Migrations\\20250804111731_mgf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250804112024_mgff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooklyBookStoreApp.Persistence\\Migrations\\20250804112024_mgff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250804112155_mgref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooklyBookStoreApp.Persistence\\Migrations\\20250804112155_mgref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250728111200_mgRefactoringUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooklyBookStoreApp.Persistence\\Migrations\\20250728111200_mgRefactoringUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250728112142_mgreafactoringForUSer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooklyBookStoreApp.Persistence\\Migrations\\20250728112142_mgreafactoringForUSer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250728102703_identityUserRefactoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooklyBookStoreApp.Persistence\\Migrations\\20250728102703_identityUserRefactoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250728102236_identityRefactoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooklyBookStoreApp.Persistence\\Migrations\\20250728102236_identityRefactoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250725051422_mgBasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooklyBookStoreApp.Persistence\\Migrations\\20250725051422_mgBasket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Areas\\Books\\Controllers\\BooksUiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooklyBookStoreApp.Ui\\Areas\\Books\\Controllers\\BooksUiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Areas\\Books\\Views\\BooksUi\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BooklyBookStoreApp.Ui\\Areas\\Books\\Views\\BooksUi\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\User\\LoginPage.cshtml",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Views\\User\\LoginPage.cshtml",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\User\\LoginPage.cshtml",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\User\\LoginPage.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T11:23:59.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\Basket\\Index.cshtml",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Views\\Basket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\Basket\\Index.cshtml",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\Basket\\Index.cshtml",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAwwOAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T09:20:58.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\ProductList\\Index.cshtml",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Views\\ProductList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\ProductList\\Index.cshtml",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\ProductList\\Index.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwEcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T11:37:45.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T10:02:49.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductListController.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Controllers\\ProductListController.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Controllers\\ProductListController.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Controllers\\ProductListController.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Controllers\\ProductListController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:58:59.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:11:37.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Presentation\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Presentation\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:57:13.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Presentation\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Presentation\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:07:31.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Presentation\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Presentation\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:25:38.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:11:13.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasketItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\DTOs\\BasketDtos\\BasketItemDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\DTOs\\BasketDtos\\BasketItemDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\DTOs\\BasketDtos\\BasketItemDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\DTOs\\BasketDtos\\BasketItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:13:27.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T11:49:04.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\Shared\\Navbar.cshtml",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Views\\Shared\\Navbar.cshtml",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\Shared\\Navbar.cshtml",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\Shared\\Navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T11:48:14.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtOptionsSetup.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.API\\OptionsSetup\\JwtOptionsSetup.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.API\\OptionsSetup\\JwtOptionsSetup.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.API\\OptionsSetup\\JwtOptionsSetup.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.API\\OptionsSetup\\JwtOptionsSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T08:21:54.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtBearerOptionsSetup.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.API\\OptionsSetup\\JwtBearerOptionsSetup.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.API\\OptionsSetup\\JwtBearerOptionsSetup.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.API\\OptionsSetup\\JwtBearerOptionsSetup.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.API\\OptionsSetup\\JwtBearerOptionsSetup.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T08:27:18.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.API\\Program.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.API\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIAwwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:10:12.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BasketResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\DTOs\\BasketDtos\\BasketResponseDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\DTOs\\BasketDtos\\BasketResponseDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\DTOs\\BasketDtos\\BasketResponseDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\DTOs\\BasketDtos\\BasketResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T09:32:58.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:36:21.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\User\\RegisterPage.cshtml",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Views\\User\\RegisterPage.cshtml",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\User\\RegisterPage.cshtml",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\User\\RegisterPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T11:42:33.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\OrderDtos\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\OrderDtos\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\OrderDtos\\CreateOrderDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\OrderDtos\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T07:38:39.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Services\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\Services\\IServiceManager.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Services\\IServiceManager.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\Services\\IServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:57:35.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Presentation\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Presentation\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T07:35:51.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BasketItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\BasketDtos\\BasketItemDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\BasketDtos\\BasketItemDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\BasketDtos\\BasketItemDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\BasketDtos\\BasketItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:15:00.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateOrderBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\OrderDtos\\CreateOrderBookDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\OrderDtos\\CreateOrderBookDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\OrderDtos\\CreateOrderBookDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\OrderDtos\\CreateOrderBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T07:43:00.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwEIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T21:58:14.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\OrderDtos\\OrderBookDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\OrderDtos\\OrderBookDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\OrderDtos\\OrderBookDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\OrderDtos\\OrderBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T07:34:38.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Services\\IOrderService.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T06:49:29.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Services\\OrderService.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T07:25:49.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Services\\BasketService.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Services\\BasketService.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Services\\BasketService.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Services\\BasketService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAhwFgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:17:50.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Services\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Services\\ServiceManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAMwBEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:19:15.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.API\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.API\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.API\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.API\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:02:30.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FavoritesController.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\Controllers\\FavoritesController.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Presentation\\Controllers\\FavoritesController.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\Controllers\\FavoritesController.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Presentation\\Controllers\\FavoritesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:44:17.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GetAllOrdersByUserIdDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\OrderDtos\\GetAllOrdersByUserIdDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\OrderDtos\\GetAllOrdersByUserIdDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\OrderDtos\\GetAllOrdersByUserIdDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\OrderDtos\\GetAllOrdersByUserIdDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T06:51:18.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Domain\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Domain\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T20:00:59.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IFavoriteService.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Services\\IFavoriteService.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\Services\\IFavoriteService.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Services\\IFavoriteService.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\Services\\IFavoriteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:22:55.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\Order.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Domain\\Entitites\\Order.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\Order.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Domain\\Entitites\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:06:57.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Services\\CategoryService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:38:57.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Services\\BookService.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Services\\BookService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA9wDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T23:06:23.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Repositories\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Domain\\Repositories\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Repositories\\IRepositoryManager.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Domain\\Repositories\\IRepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:12:03.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Repositorires\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Repositorires\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Repositorires\\RepositoryManager.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Repositorires\\RepositoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:14:31.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Repositorires\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Repositorires\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Repositorires\\RepositoryBase.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Repositorires\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:08:26.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Repositorires\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Repositorires\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Repositorires\\OrderRepository.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Repositorires\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T06:36:25.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderBook.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\OrderBook.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Domain\\Entitites\\OrderBook.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\OrderBook.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Domain\\Entitites\\OrderBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:06:49.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Repositorires\\FavoriteRepository.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Repositorires\\FavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Repositorires\\FavoriteRepository.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Repositorires\\FavoriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:55:41.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:39:35.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Domain\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Domain\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T06:34:52.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IBasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Repositories\\IBasketRepository.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Domain\\Repositories\\IBasketRepository.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Repositories\\IBasketRepository.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Domain\\Repositories\\IBasketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:02:05.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Repositories\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Domain\\Repositories\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Repositories\\IRepositoryBase.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Domain\\Repositories\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:09:50.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Domain\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Domain\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:15:22.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IFavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Repositories\\IFavoriteRepository.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Domain\\Repositories\\IFavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Repositories\\IFavoriteRepository.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Domain\\Repositories\\IFavoriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:32:27.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Repositorires\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Repositorires\\BasketRepository.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Repositorires\\BasketRepository.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Repositorires\\BasketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:04:12.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Repositorires\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Repositorires\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Repositorires\\BookRepository.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Repositorires\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:07:16.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Repositorires\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Repositorires\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Repositorires\\CategoryRepository.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Repositorires\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:36:14.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\Basket.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Domain\\Entitites\\Basket.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\Basket.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Domain\\Entitites\\Basket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:06:17.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\User.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Domain\\Entitites\\User.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\User.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Domain\\Entitites\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:36:51.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IBasketService.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Services\\IBasketService.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\Services\\IBasketService.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Services\\IBasketService.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\Services\\IBasketService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:13:13.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Services\\UserService.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Services\\UserService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIAwwEUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:45:10.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Services\\IUserService.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:30:39.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Services\\IBookService.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T20:00:33.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Infrastructure\\Authentication\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Infrastructure\\Authentication\\JwtProvider.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Infrastructure\\Authentication\\JwtProvider.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Infrastructure\\Authentication\\JwtProvider.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAhwCYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T08:52:40.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\Abstractions\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Presentation\\Abstractions\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\Abstractions\\BaseApiController.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Presentation\\Abstractions\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T17:09:59.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Presentation\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Presentation\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:16:50.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Infrastructure\\Authentication\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Infrastructure\\Authentication\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Infrastructure\\Authentication\\JwtOptions.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Infrastructure\\Authentication\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T08:18:33.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LoginUserDtoValidators.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Validator\\UserValidators\\LoginUserDtoValidators.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\Validator\\UserValidators\\LoginUserDtoValidators.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Validator\\UserValidators\\LoginUserDtoValidators.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\Validator\\UserValidators\\LoginUserDtoValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T10:34:34.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ErrorModel.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.API\\Middlewares\\ErrorModel.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.API\\Middlewares\\ErrorModel.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.API\\Middlewares\\ErrorModel.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.API\\Middlewares\\ErrorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T19:06:26.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FavoriteService.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Services\\FavoriteService.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Services\\FavoriteService.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Services\\FavoriteService.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Services\\FavoriteService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwBkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:26:14.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Configuration\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Configuration\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Configuration\\OrderConfiguration.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Configuration\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:21:59.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "FavoriteConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Configuration\\FavoriteConfiguration.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Configuration\\FavoriteConfiguration.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Configuration\\FavoriteConfiguration.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Configuration\\FavoriteConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:21:38.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Configuration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Configuration\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Configuration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Configuration\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:47:38.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "20250804114528_mggg.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250804114528_mggg.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Migrations\\20250804114528_mggg.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250804114528_mggg.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Migrations\\20250804114528_mggg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:50:57.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\UserDtos\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\UserDtos\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\UserDtos\\RegisterUserDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\UserDtos\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:32:13.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Configuration\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Configuration\\BookConfiguration.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Configuration\\BookConfiguration.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Configuration\\BookConfiguration.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:21:33.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "BookCommentConfig.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Configuration\\BookCommentConfig.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Configuration\\BookCommentConfig.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Configuration\\BookCommentConfig.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Configuration\\BookCommentConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:21:21.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T13:13:13.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "OrderBookConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Configuration\\OrderBookConfiguration.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Configuration\\OrderBookConfiguration.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Configuration\\OrderBookConfiguration.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Configuration\\OrderBookConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:21:55.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Configuration\\UserConfig.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Configuration\\UserConfig.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Configuration\\UserConfig.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Configuration\\UserConfig.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIAwwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:31:49.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\UserDtos\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\UserDtos\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\UserDtos\\LoginUserDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\UserDtos\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:37:26.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "20250804105056_mgRefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250804105056_mgRefreshToken.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Migrations\\20250804105056_mgRefreshToken.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250804105056_mgRefreshToken.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Migrations\\20250804105056_mgRefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:50:57.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "20250804111731_mgf.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250804111731_mgf.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Migrations\\20250804111731_mgf.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250804111731_mgf.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Migrations\\20250804111731_mgf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:50:57.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "20250804112024_mgff.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250804112024_mgff.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Migrations\\20250804112024_mgff.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250804112024_mgff.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Migrations\\20250804112024_mgff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:50:57.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "20250804112155_mgref.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250804112155_mgref.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Migrations\\20250804112155_mgref.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250804112155_mgref.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Migrations\\20250804112155_mgref.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:50:57.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\UserDtos\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\UserDtos\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\UserDtos\\LoginResponseDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\UserDtos\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:41:24.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.API\\appsettings.json",
+              "RelativeToolTip": "BooklyBookStoreApp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T12:54:26.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Abstractions\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\Abstractions\\IJwtProvider.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Abstractions\\IJwtProvider.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\Abstractions\\IJwtProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T08:50:19.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "BasketDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\BasketDtos\\BasketDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\BasketDtos\\BasketDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\BasketDtos\\BasketDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\BasketDtos\\BasketDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:14:05.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AddBasketItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\BasketDtos\\AddBasketItemDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\BasketDtos\\AddBasketItemDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\BasketDtos\\AddBasketItemDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\BasketDtos\\AddBasketItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:16:41.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\BasketItem.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Domain\\Entitites\\BasketItem.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\BasketItem.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Domain\\Entitites\\BasketItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:10:48.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:47:25.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "FavoriteDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\FavoritesDtos\\FavoriteDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\FavoritesDtos\\FavoriteDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\FavoritesDtos\\FavoriteDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\FavoritesDtos\\FavoriteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:37:53.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Favorites.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\Favorites.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Domain\\Entitites\\Favorites.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\Favorites.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Domain\\Entitites\\Favorites.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:33:32.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "GetAllFavoritesByUsernameWithBookDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\FavoritesDtos\\GetAllFavoritesByUsernameWithBookDetailsDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\FavoritesDtos\\GetAllFavoritesByUsernameWithBookDetailsDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\FavoritesDtos\\GetAllFavoritesByUsernameWithBookDetailsDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\FavoritesDtos\\GetAllFavoritesByUsernameWithBookDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T19:59:03.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\Book.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Domain\\Entitites\\Book.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\Book.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Domain\\Entitites\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:07:09.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "BookComment.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\BookComment.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Domain\\Entitites\\BookComment.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\BookComment.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Domain\\Entitites\\BookComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:51:31.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "CreateFavoriteDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\FavoritesDtos\\CreateFavoriteDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\FavoritesDtos\\CreateFavoriteDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\FavoritesDtos\\CreateFavoriteDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\FavoritesDtos\\CreateFavoriteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:20:37.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "20250728111200_mgRefactoringUsers.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250728111200_mgRefactoringUsers.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Migrations\\20250728111200_mgRefactoringUsers.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250728111200_mgRefactoringUsers.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Migrations\\20250728111200_mgRefactoringUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:50:57.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "20250728112142_mgreafactoringForUSer.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250728112142_mgreafactoringForUSer.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Migrations\\20250728112142_mgreafactoringForUSer.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250728112142_mgreafactoringForUSer.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Migrations\\20250728112142_mgreafactoringForUSer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:50:57.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "20250728102703_identityUserRefactoring.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250728102703_identityUserRefactoring.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Migrations\\20250728102703_identityUserRefactoring.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250728102703_identityUserRefactoring.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Migrations\\20250728102703_identityUserRefactoring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:50:57.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "20250728102236_identityRefactoring.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250728102236_identityRefactoring.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Migrations\\20250728102236_identityRefactoring.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250728102236_identityRefactoring.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Migrations\\20250728102236_identityRefactoring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:50:57.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Program.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Program.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Program.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T00:11:34.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\Category.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Domain\\Entitites\\Category.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Domain\\Entitites\\Category.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Domain\\Entitites\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:14:49.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "UpdateBookDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Validator\\BookValidators\\UpdateBookDtoValidator.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\Validator\\BookValidators\\UpdateBookDtoValidator.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Validator\\BookValidators\\UpdateBookDtoValidator.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\Validator\\BookValidators\\UpdateBookDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:19:37.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "UpdateBookDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Validator\\CategoryValidators\\UpdateBookDtoValidator.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\Validator\\CategoryValidators\\UpdateBookDtoValidator.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Validator\\CategoryValidators\\UpdateBookDtoValidator.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\Validator\\CategoryValidators\\UpdateBookDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:23:56.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "UpdateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\UpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\UpdateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\UpdateCategoryDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\UpdateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:52:45.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "CreateBookDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Validator\\CategoryValidators\\CreateBookDtoValidator.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\Validator\\CategoryValidators\\CreateBookDtoValidator.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Validator\\CategoryValidators\\CreateBookDtoValidator.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\Validator\\CategoryValidators\\CreateBookDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:21:02.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "CategoryNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Exceptions\\CategoryNotFoundException.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\Exceptions\\CategoryNotFoundException.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Exceptions\\CategoryNotFoundException.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\Exceptions\\CategoryNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:03:14.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "BookNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Exceptions\\BookNotFoundException.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\Exceptions\\BookNotFoundException.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Exceptions\\BookNotFoundException.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\Exceptions\\BookNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T18:50:23.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\CategoryDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:53:36.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "GetAllCategoriesDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\GetAllCategoriesDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\GetAllCategoriesDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\GetAllCategoriesDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\GetAllCategoriesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:44:51.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\CreateCategoryDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:50:53.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "GetOneCategoryByIdDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\GetOneCategoryByIdDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\GetOneCategoryByIdDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\GetOneCategoryByIdDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\CategoryDtos\\GetOneCategoryByIdDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:50:22.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "GetAllBooksWithCategoryNameDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\BookDtos\\GetAllBooksWithCategoryNameDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\BookDtos\\GetAllBooksWithCategoryNameDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\BookDtos\\GetAllBooksWithCategoryNameDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\BookDtos\\GetAllBooksWithCategoryNameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:45:09.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "CreateBookDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Validator\\BookValidators\\CreateBookDtoValidator.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\Validator\\BookValidators\\CreateBookDtoValidator.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\Validator\\BookValidators\\CreateBookDtoValidator.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\Validator\\BookValidators\\CreateBookDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:03:59.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "20250725051422_mgBasket.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250725051422_mgBasket.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\Migrations\\20250725051422_mgBasket.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\Migrations\\20250725051422_mgBasket.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\Migrations\\20250725051422_mgBasket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:50:57.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "Scripts.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\Shared\\Scripts.cshtml",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Views\\Shared\\Scripts.cshtml",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\Shared\\Scripts.cshtml",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\Shared\\Scripts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T11:50:32.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T11:50:41.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwC8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T11:51:09.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "BooksUiController.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Areas\\Books\\Controllers\\BooksUiController.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Areas\\Books\\Controllers\\BooksUiController.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Areas\\Books\\Controllers\\BooksUiController.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Areas\\Books\\Controllers\\BooksUiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:50:57.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\DTOs\\BookDtos\\BookDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\DTOs\\BookDtos\\BookDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\DTOs\\BookDtos\\BookDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\DTOs\\BookDtos\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:04:13.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "bg_1.jpg",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\wwwroot\\booklyBookStore\\images\\bg_1.jpg",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\wwwroot\\booklyBookStore\\images\\bg_1.jpg",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\wwwroot\\booklyBookStore\\images\\bg_1.jpg",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\wwwroot\\booklyBookStore\\images\\bg_1.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-23T11:58:06.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T11:36:26.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 129,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Areas\\Books\\Views\\BooksUi\\Index.cshtml",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Areas\\Books\\Views\\BooksUi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Areas\\Books\\Views\\BooksUi\\Index.cshtml",
+              "RelativeToolTip": "BooklyBookStoreApp.Ui\\Areas\\Books\\Views\\BooksUi\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T11:50:57.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "ValidationFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\ActionFilters\\ValidationFilterAttribute.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Presentation\\ActionFilters\\ValidationFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\ActionFilters\\ValidationFilterAttribute.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Presentation\\ActionFilters\\ValidationFilterAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T11:52:15.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "BooklyBookStoreApp.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj",
+              "RelativeToolTip": "BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-10T15:26:40.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "CreateBookDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\BookDtos\\CreateBookDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\BookDtos\\CreateBookDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\BookDtos\\CreateBookDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\BookDtos\\CreateBookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T23:47:23.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\BookDtos\\BookDto.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\DTOs\\BookDtos\\BookDto.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\DTOs\\BookDtos\\BookDto.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\DTOs\\BookDtos\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:31:47.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.API\\appsettings.Development.json",
+              "RelativeToolTip": "BooklyBookStoreApp.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T12:54:25.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Persistence\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Persistence\\AssemblyReference.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Persistence\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:53:00.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "ServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.API\\Extensions\\ServicesExtensions.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.API\\Extensions\\ServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.API\\Extensions\\ServicesExtensions.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.API\\Extensions\\ServicesExtensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBZwAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:16:20.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Application\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Application\\AssemblyReference.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Application\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:14:05.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "BooklyBookStoreApp.Presentation\\AssemblyReference.cs",
+              "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Presentation\\AssemblyReference.cs",
+              "RelativeToolTip": "BooklyBookStoreApp.Presentation\\AssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:14:11.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

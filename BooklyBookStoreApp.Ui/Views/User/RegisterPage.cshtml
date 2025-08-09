@@ -1,0 +1,90 @@
+﻿@{
+    ViewData["Title"] = "LoginPage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>LoginPage</h1>
+
+<form id="registerForm">
+    <div>
+        <label for="nameSurname">Name Surname:</label><br />
+        <input type="text" id="nameSurname" name="nameSurname" value="string" />
+    </div>
+    <div>
+        <label for="userName">User Name:</label><br />
+        <input type="text" id="userName" name="userName" value="string" />
+    </div>
+    <div>
+        <label for="password">Password:</label><br />
+        <input type="password" id="password" name="password" value="string" />
+    </div>
+    <div>
+        <label for="email">Email:</label><br />
+        <input type="email" id="email" name="email" value="string" />
+    </div>
+    <div>
+        <label for="phoneNumber">Phone Number:</label><br />
+        <input type="tel" id="phoneNumber" name="phoneNumber" value="string" />
+    </div>
+    <div>
+        <label for="adress">Address:</label><br />
+        <input type="text" id="adress" name="adress" value="string" />
+    </div>
+    <div>
+        <label for="city">City:</label><br />
+        <input type="text" id="city" name="city" value="string" />
+    </div>
+    <div>
+        <label for="district">District:</label><br />
+        <input type="text" id="district" name="district" value="string" />
+    </div>
+
+    <button type="submit">Register</button>
+</form>
+
+<div id="result" style="margin-top:15px;"></div>
+
+@section Scripts {
+    <script>
+        document.getElementById("registerForm").addEventListener("submit", async function (e) {
+            e.preventDefault();
+
+            const data = {
+                nameSurname: document.getElementById("nameSurname").value,
+                userName: document.getElementById("userName").value,
+                password: document.getElementById("password").value,
+                email: document.getElementById("email").value,
+                phoneNumber: document.getElementById("phoneNumber").value,
+                adress: document.getElementById("adress").value,
+                city: document.getElementById("city").value,
+                district: document.getElementById("district").value,
+            };
+
+            try {
+                const response = await fetch("https://localhost:7174/api/Users/register", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify(data)
+                });
+
+                const resultDiv = document.getElementById("result");
+
+                if (response.ok) {
+                    const result = await response.json();
+                    resultDiv.style.color = "green";
+                    resultDiv.textContent = "Kayıt başarılı! " + JSON.stringify(result);
+                } else {
+                    const error = await response.text();
+                    resultDiv.style.color = "red";
+                    resultDiv.textContent = "Hata: " + error;
+                }
+            } catch (error) {
+                const resultDiv = document.getElementById("result");
+                resultDiv.style.color = "red";
+                resultDiv.textContent = "İstek gönderilemedi: " + error.message;
+            }
+        });
+    </script>
+}

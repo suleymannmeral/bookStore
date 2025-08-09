@@ -1,0 +1,6 @@
+@BooklyBookStoreApp.API_HostAddress = http://localhost:5285
+
+GET {{BooklyBookStoreApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
