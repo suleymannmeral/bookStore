@@ -554,8 +554,7 @@
               "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\User\\LoginPage.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-09T11:23:59.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T11:23:59.906Z"
             },
             {
               "$type": "Document",
@@ -565,7 +564,7 @@
               "RelativeDocumentMoniker": "BooklyBookStoreApp.Ui\\Views\\Basket\\Index.cshtml",
               "ToolTip": "C:\\Users\\mrlsl\\Documents\\projects\\BooklyBookStoreApp\\BooklyBookStoreApp\\BooklyBookStoreApp.Ui\\Views\\Basket\\Index.cshtml",
               "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\Basket\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBoAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-09T09:20:58.733Z",
               "EditorCaption": ""
@@ -580,8 +579,7 @@
               "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\ProductList\\Index.cshtml",
               "ViewState": "AgIAACsAAAAAAAAAAAAqwEcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T11:37:45.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T11:37:45.915Z"
             },
             {
               "$type": "Document",
@@ -593,8 +591,7 @@
               "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T10:02:49.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T10:02:49.396Z"
             },
             {
               "$type": "Document",
@@ -606,8 +603,7 @@
               "RelativeToolTip": "BooklyBookStoreApp.Ui\\Controllers\\ProductListController.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAIwBAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T09:58:59.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T09:58:59.248Z"
             },
             {
               "$type": "Document",
@@ -619,8 +615,7 @@
               "RelativeToolTip": "BooklyBookStoreApp.Ui\\Controllers\\BasketController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwBMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T09:11:37.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T09:11:37.822Z"
             },
             {
               "$type": "Document",
@@ -632,8 +627,7 @@
               "RelativeToolTip": "BooklyBookStoreApp.Presentation\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T10:57:13.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T10:57:13.145Z"
             },
             {
               "$type": "Document",
@@ -671,8 +665,7 @@
               "RelativeToolTip": "BooklyBookStoreApp.Ui\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T09:11:13.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T09:11:13.991Z"
             },
             {
               "$type": "Document",
@@ -684,8 +677,7 @@
               "RelativeToolTip": "BooklyBookStoreApp.Ui\\DTOs\\BasketDtos\\BasketItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T09:13:27.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T09:13:27.516Z"
             },
             {
               "$type": "Document",
@@ -697,8 +689,7 @@
               "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\Shared\\Header.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T11:49:04.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T11:49:04.3Z"
             },
             {
               "$type": "Document",
@@ -710,8 +701,7 @@
               "RelativeToolTip": "BooklyBookStoreApp.Ui\\Views\\Shared\\Navbar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T11:48:14.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T11:48:14.424Z"
             },
             {
               "$type": "Document",
@@ -2033,8 +2023,7 @@
               "RelativeToolTip": "BooklyBookStoreApp.Presentation\\BooklyBookStoreApp.Presentation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T15:26:40.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T15:26:40.182Z"
             },
             {
               "$type": "Document",
