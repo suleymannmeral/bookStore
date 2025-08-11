@@ -81,6 +81,9 @@ Her türlü soru, görüş veya öneriniz için bana GitHub üzerinden ulaşabil
 <img width="1825" height="740" alt="image" src="https://github.com/user-attachments/assets/5249a03d-6a02-46cf-93ec-fb634e198f1f" />
 <img width="1848" height="712" alt="image" src="https://github.com/user-attachments/assets/cf7cb6c9-87e6-4eca-bfd9-7088ca96f6ed" />
 <img width="1833" height="590" alt="image" src="https://github.com/user-attachments/assets/e8fd08c5-91dc-4efa-8734-5e8db149437b" />
+<img width="1840" height="897" alt="image" src="https://github.com/user-attachments/assets/79ecbf1d-2b97-4376-90f8-97e695e44ca0" />
+<img width="1851" height="889" alt="image" src="https://github.com/user-attachments/assets/d01b68cc-ca3e-44fb-8bfe-68a865797b33" />
+
 
 
 
